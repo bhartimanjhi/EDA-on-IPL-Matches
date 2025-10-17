@@ -18,11 +18,14 @@ Data source: [Kaggle – IPL dataset](https://www.kaggle.com/datasets/patrickb19
 ## Key Findings / Highlights  
 - Team A has highest win rate over seasons  
 - Toss winning gives ~X% advantage  
-- Batsman Y shows consistently high strike rate in death overs  
+- Batsman Y shows consistently high strike rate in death overs
 
+## Recommendations
+
+- Teams should focus on improving death over strategies.
+- Players with high batting averages should be promoted in the batting order.
 
 ## Tools & Libraries  
 - Python, Pandas, NumPy  
 - Seaborn, Matplotlib, Plotly  
 - Jupyter Notebook  
- 
